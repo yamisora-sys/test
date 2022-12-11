@@ -234,6 +234,12 @@ body{
 .dropdown-item {
   color: rgba(255, 255, 255, 0.8);
 }
+
+.notification{
+  position: relative;
+  right: -173px;
+}
+
 .title a {
   text-decoration: none;
   color: black;

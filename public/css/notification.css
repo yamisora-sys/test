@@ -192,4 +192,6 @@
   }
   
   
-  
+  .hidden{
+    display: none;
+  }
