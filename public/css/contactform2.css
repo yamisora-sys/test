@@ -146,7 +146,7 @@ ul {
 }
 
 body{
-  background-image: url(/images/contact_background.jpg);
+  background-image: url(../../images/contact_background.jpg);
 }
 
 .btn{
@@ -226,10 +226,10 @@ body{
 }
 
 #noti_img1 {
-  background-image: url(/images/photo1669091302936-16690913031841639366741.jpg);
+  background-image: url(../../images/photo1669091302936-16690913031841639366741.jpg);
 }
 #noti_img2 {
-  background-image: url(/images/mono_noti.jpg);
+  background-image: url(../../images/mono_noti.jpg);
 }
 .dropdown-item {
   color: rgba(255, 255, 255, 0.8);
